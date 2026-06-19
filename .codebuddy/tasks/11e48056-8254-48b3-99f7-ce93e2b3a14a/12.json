@@ -1,0 +1,9 @@
+{
+  "subject": "修复agent_toggle和chat_status_badge重复定义Bug",
+  "description": "删除main_window.py顶部标题栏中的重复agent_toggle(L1130-1135)和chat_status_badge(L1154-1155)，以及废弃的chat_scene_combo/chat_type_combo(L1137-1149)，清理死代码方法",
+  "activeForm": "修复重复定义Bug",
+  "status": "completed",
+  "id": "12",
+  "createdAt": 1781807543849,
+  "updatedAt": 1781807608080
+}

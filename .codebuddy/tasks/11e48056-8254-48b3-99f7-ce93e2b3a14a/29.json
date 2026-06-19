@@ -1,0 +1,9 @@
+{
+  "subject": "适配闲鱼模块到新框架",
+  "description": "将现有的闲鱼采集/对话/分析/报告功能适配到新的侧边栏+标签页框架中",
+  "activeForm": "适配闲鱼模块到新框架",
+  "status": "completed",
+  "id": "29",
+  "createdAt": 1781809955480,
+  "updatedAt": 1781810181354
+}

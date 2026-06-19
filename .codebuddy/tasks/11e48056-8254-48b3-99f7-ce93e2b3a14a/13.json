@@ -1,0 +1,9 @@
+{
+  "subject": "Craft按钮改为思考深度三档选择器",
+  "description": "将Craft按钮替换为pill风格的三档按钮组：深度思考/平衡/快速，添加_on_depth_switch方法，选中态用紫色",
+  "activeForm": "替换Craft为思考深度选择器",
+  "status": "completed",
+  "id": "13",
+  "createdAt": 1781807547685,
+  "updatedAt": 1781807634822
+}

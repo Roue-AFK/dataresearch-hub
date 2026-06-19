@@ -1,0 +1,9 @@
+{
+  "subject": "重构全局配色系统为Slate Professional暗色+暖橙",
+  "description": "将C类配色从浅色米色系改为Slate Professional暗色系(#0F172A背景/#1E293B卡片/#F59E0B暖橙强调)，支持暗色/浅色双主题",
+  "activeForm": "重构全局配色系统",
+  "status": "completed",
+  "id": "25",
+  "createdAt": 1781809937104,
+  "updatedAt": 1781810163804
+}

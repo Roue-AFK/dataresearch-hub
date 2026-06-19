@@ -1,0 +1,9 @@
+{
+  "subject": "创建闲鱼数据调研工具 - 完整项目",
+  "description": "开发一个带GUI的闲鱼商品数据采集工具，包括：爬虫引擎、SQLite存储、Excel导出、文案分析、图形界面。Windows打包支持。",
+  "activeForm": "开发闲鱼数据调研工具",
+  "status": "completed",
+  "id": "1",
+  "createdAt": 1781771982515,
+  "updatedAt": 1781772380073
+}

@@ -1,0 +1,23 @@
+version: "3.0.0"
+defaultAgent: "fbs-team-lead"
+providers:
+  xlsx-data:
+    channel: "tier2-plugin"
+    plugin: "xlsx"
+    purpose: "数据分析报告与表格导出"
+  docx-delivery:
+    channel: "tier2-plugin"
+    plugin: "docx"
+    purpose: "Word 交付"
+  pdf-literature:
+    channel: "tier2-plugin"
+    plugin: "pdf"
+    purpose: "PDF 预览与导出"
+  pptx-delivery:
+    channel: "tier2-plugin"
+    plugin: "pptx"
+    purpose: "PPT 交付"
+  browser-preview:
+    channel: "tier2-plugin"
+    plugin: "playwright-cli"
+    purpose: "HTML 与结果预览"

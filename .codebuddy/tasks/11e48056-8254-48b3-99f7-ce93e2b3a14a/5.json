@@ -1,0 +1,9 @@
+{
+  "subject": "重构设置面板 - 左下角独立+丰富AI配置套件",
+  "description": "1. 设置面板移到左下角独立区域 2. 移除spinbox滚轮 3. 丰富设置内容（防封/AI/采集/界面） 4. AI模型选择和配置套件 5. 设置即时保存",
+  "activeForm": "重构设置面板+丰富AI配置",
+  "status": "completed",
+  "id": "5",
+  "createdAt": 1781800281950,
+  "updatedAt": 1781800443432
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "升级AI调研模块 - 接入真实大模型+可配置API",
+  "description": "1. 升级researcher.py支持调用大模型API 2. 在设置页增加API配置面板 3. 支持多种模型：DeepSeek/通义千问/OpenAI兼容 4. 保留离线规则引擎作为兜底",
+  "activeForm": "升级AI调研为真实大模型+API配置",
+  "status": "completed",
+  "id": "3",
+  "createdAt": 1781798854506,
+  "updatedAt": 1781798999818
+}

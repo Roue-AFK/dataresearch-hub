@@ -1,0 +1,9 @@
+{
+  "subject": "assistant.py添加thinking_depth并联动API参数",
+  "description": "在AIAssistant添加thinking_depth属性，_call_api和chat_stream中根据深度调整temperature/max_tokens",
+  "activeForm": "修改API参数联动",
+  "status": "completed",
+  "id": "14",
+  "createdAt": 1781807551446,
+  "updatedAt": 1781807653845
+}

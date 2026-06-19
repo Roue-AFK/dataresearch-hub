@@ -1,0 +1,9 @@
+{
+  "subject": "重构主工作区为标签页式结构",
+  "description": "用QTabWidget替换原有的QTabWidget，根据左侧导航切换时动态显示对应平台的功能标签页",
+  "activeForm": "重构主工作区为标签页结构",
+  "status": "completed",
+  "id": "27",
+  "createdAt": 1781809946340,
+  "updatedAt": 1781810172639
+}

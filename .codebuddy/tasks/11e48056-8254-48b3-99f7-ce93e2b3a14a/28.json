@@ -1,0 +1,9 @@
+{
+  "subject": "添加底部状态栏",
+  "description": "添加底部状态栏显示：当前平台、数据状态、版本号、AI连接状态",
+  "activeForm": "添加底部状态栏",
+  "status": "completed",
+  "id": "28",
+  "createdAt": 1781809950768,
+  "updatedAt": 1781810176823
+}

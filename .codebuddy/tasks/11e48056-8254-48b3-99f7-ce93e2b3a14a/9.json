@@ -1,0 +1,9 @@
+{
+  "subject": "优化AI助手UI：自由对话为主+模板选择",
+  "description": "主界面改为自由AI对话为主，模板选择作为辅助。先展示对话区，模板用下拉或标签方式选择，选择模板后再选具体类型。",
+  "activeForm": "优化AI助手UI布局",
+  "status": "completed",
+  "id": "9",
+  "createdAt": 1781802217596,
+  "updatedAt": 1781802324436
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "设置面板增加检查更新按钮",
+  "description": "在SettingsDialog底部添加\"🔄 检查更新\"按钮，用subprocess执行git fetch+reset，显示结果弹窗",
+  "activeForm": "添加检查更新功能",
+  "status": "completed",
+  "id": "18",
+  "createdAt": 1781808668206,
+  "updatedAt": 1781808773715
+}

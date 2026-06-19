@@ -1,0 +1,9 @@
+{
+  "subject": "底部工具栏压缩为WorkBuddy紧凑风格",
+  "description": "缩小输入框(52→36px)、工具栏按钮(26→22px)、深度按钮(22→20px)、发送按钮(32→28px)、卡片边距、tool_row边距和间距",
+  "activeForm": "压缩底部工具栏高度",
+  "status": "completed",
+  "id": "17",
+  "createdAt": 1781808663981,
+  "updatedAt": 1781808747846
+}

@@ -1,0 +1,16 @@
+{
+  "pid": 618,
+  "lastHeartbeat": 1781863438962,
+  "sessionId": "11e48056-8254-48b3-99f7-ce93e2b3a14a",
+  "cwd": "/workspace",
+  "startedAt": 1781862478845,
+  "kind": "interactive",
+  "url": "http://127.0.0.1:35947",
+  "endpoint": "http://127.0.0.1:35947",
+  "mode": "local",
+  "version": "2.106.3",
+  "os": "linux",
+  "arch": "x64",
+  "hostname": "9cd6d451c64d",
+  "updatedAt": 1781863438964
+}

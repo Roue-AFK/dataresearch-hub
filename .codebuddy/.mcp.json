@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "netdrive": {
+      "type": "http",
+      "url": "http://netdrive.agent-gateway.auth-proxy.local/mcp"
+    },
+    "tdocs-app": {
+      "type": "http",
+      "url": "http://tdocs-app.agent-gateway.auth-proxy.local/openapi/mcp",
+      "disabled": false
+    },
+    "wb-issues": {
+      "type": "http",
+      "url": "http://wb-issues.agent-gateway.auth-proxy.local/_internal/issues/mcp",
+      "disabled": false
+    }
+  }
+}

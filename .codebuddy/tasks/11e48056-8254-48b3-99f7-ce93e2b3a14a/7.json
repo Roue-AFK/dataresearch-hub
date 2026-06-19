@@ -1,0 +1,9 @@
+{
+  "subject": "AI Agent自主操作+记忆功能+需求澄清",
+  "description": "1. AI可自主调用程序所有功能（采集/导出/分析等）2. AI对话前先问用户问题明确需求 3. 添加完整MCP skill工具集 4. 对话历史保存到本地（JSON），保存路径可在设置中选择",
+  "activeForm": "扩展AI Agent能力",
+  "status": "completed",
+  "id": "7",
+  "createdAt": 1781800936146,
+  "updatedAt": 1781801142315
+}

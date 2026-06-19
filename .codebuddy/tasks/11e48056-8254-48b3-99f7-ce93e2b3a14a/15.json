@@ -1,0 +1,9 @@
+{
+  "subject": "修复所有工具栏按钮和StatusBadge文字颜色",
+  "description": "skill_btn/scene_btn/more_btn/agent_toggle/模型按钮/StatusBadge文字从C.text_dim改为C.text，hover改为C.primary",
+  "activeForm": "修复按钮文字颜色",
+  "status": "completed",
+  "id": "15",
+  "createdAt": 1781807555435,
+  "updatedAt": 1781807688921
+}

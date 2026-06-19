@@ -1,0 +1,11 @@
+{
+  "enabledPlugins": {
+    "pdf@codebuddy-plugins-official": true,
+    "docx@codebuddy-plugins-official": true,
+    "xlsx@codebuddy-plugins-official": true,
+    "pptx@codebuddy-plugins-official": true,
+    "agent-browser@codebuddy-plugins-official": true,
+    "playwright-cli@codebuddy-plugins-official": true,
+    "hot-skills@codebuddy-plugins-official": true
+  }
+}

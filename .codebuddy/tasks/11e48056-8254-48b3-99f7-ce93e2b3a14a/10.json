@@ -1,0 +1,9 @@
+{
+  "subject": "采集数量改为纯输入框无按钮",
+  "description": "导航栏采集数量从QSpinBox改为QLineEdit纯数字输入，不要上下按钮。",
+  "activeForm": "改为纯输入框采集数量",
+  "status": "completed",
+  "id": "10",
+  "createdAt": 1781802221816,
+  "updatedAt": 1781802256041
+}

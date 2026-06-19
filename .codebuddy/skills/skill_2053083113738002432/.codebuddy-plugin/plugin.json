@@ -1,0 +1,12 @@
+{
+  "name": "fbs-bookwriter",
+  "version": "3.0.0",
+  "displayName": "福帮手：高质量长文档手稿工具链",
+  "description": "福帮手 BookWriter 3.0 CodeBuddy 插件元数据。默认代理为 fbs-team-lead，机读通道清单见 codebuddy/channel-manifest.json。",
+  "defaultAgent": "fbs-team-lead",
+  "settings": {
+    "channelManifest": "codebuddy/channel-manifest.json",
+    "providerRegistry": ".codebuddy/providers/provider-registry.yml",
+    "teamLead": ".codebuddy/agents/fbs-team-lead.md"
+  }
+}

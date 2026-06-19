@@ -1,0 +1,9 @@
+{
+  "subject": "迁移WorkBuddy配置到新项目",
+  "description": "把 /root/.codebuddy/ 下的 skills、MCP配置、插件设置、自动化任务等完整迁移到 /workspace/xianyu-tool-new/.codebuddy/",
+  "activeForm": "迁移WorkBuddy配置到新项目",
+  "status": "in_progress",
+  "id": "34",
+  "createdAt": 1781863425857,
+  "updatedAt": 1781863431401
+}

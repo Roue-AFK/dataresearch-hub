@@ -1,0 +1,9 @@
+{
+  "subject": "更新PROJECT_SNAPSHOT.md并上传tdrive，提醒git更新命令",
+  "description": "所有改动完成后更新快照文件，上传到tdrive，提醒用户执行git fetch origin && git reset --hard origin/master",
+  "activeForm": "上传快照并提醒更新",
+  "status": "completed",
+  "id": "16",
+  "createdAt": 1781807559462,
+  "updatedAt": 1781807758891
+}

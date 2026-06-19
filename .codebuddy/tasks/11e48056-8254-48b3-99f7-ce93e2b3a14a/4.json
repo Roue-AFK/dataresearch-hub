@@ -1,0 +1,9 @@
+{
+  "subject": "新增AI对话助手+基础MCP skill",
+  "description": "1. 新增AI对话标签页 2. 支持多轮对话 3. 预设运营/文案/定价等场景模板 4. 接入基础MCP skill（数据查询、导出等） 5. 聊天历史记录保存",
+  "activeForm": "添加AI对话助手+MCP功能",
+  "status": "completed",
+  "id": "4",
+  "createdAt": 1781799537914,
+  "updatedAt": 1781799759897
+}

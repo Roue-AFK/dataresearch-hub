@@ -1,0 +1,9 @@
+{
+  "subject": "深度检查v15.0.3确保完美运行",
+  "description": "全面检查main_window.py的所有引用、方法、属性，确保无遗漏错误。包括：检查所有self.xxx引用是否都有定义、所有方法调用是否正确、平台切换时的Tab控件创建是否完整",
+  "activeForm": "深度检查v15.0.3代码",
+  "status": "completed",
+  "id": "33",
+  "createdAt": 1781810818002,
+  "updatedAt": 1781810870007
+}
