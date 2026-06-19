@@ -1,36 +1,36 @@
-# DataResearch Hub v15.0.3 — 云端测试全部通过 ✅
+# DataResearch Hub v15.0.3 — 新项目(精简版)
 
-## 项目 /workspace/xianyu-tool/
-GitHub: https://github.com/Roue-AFK/xianyu-data-tool
+## 新仓库
+GitHub: https://github.com/Roue-AFK/dataresearch-hub
 
-## 测试结果 (22项UI + 8项功能 + 3平台)
+## 项目大小
+268K（原 xianyu-tool 4.3M，去除了 .git 历史膨胀）
+
+## 文件结构
 ```
-OK 平台导航列表        OK 子导航列表
-OK 顶部标题            OK 关键词输入
-OK 数量输入            OK 开始按钮
-OK 标签页              OK 闲鱼采集Tab
-OK 闲鱼对话Tab         OK 闲鱼分析Tab
-OK 闲鱼调研Tab         OK 聊天输入框
-OK 思考深度按钮        OK 自动执行开关
-OK 状态徽章            OK 状态信息
-OK 平台标识            OK 版本号
-OK 数据库              OK 分析器
-OK 导出器              OK 调研器
----
-OK 闲鱼: 4 tabs        OK 抖音: 3 tabs       OK 小红书: 3 tabs
-OK 设置方法可访问       OK 消息发送正常
-OK 深度切换 high/medium/low
-OK 自动执行开关         OK 任务历史加载
-OK 仪表盘刷新(安全跳过)
----
-🎉 全部检查通过！零错误！
+dataresearch-hub/
+  main.py              # 入口
+  gui/main_window.py   # 主窗口 (Slate Professional 暗色主题)
+  core/
+    config.py          # 配置
+    database.py        # SQLite 数据库
+    crawler.py         # 闲鱼爬虫
+    researcher.py      # AI 市场调研
+    analyzer.py        # 数据分析 (jieba)
+    exporter.py        # Excel/CSV 导出
+    assistant.py       # AI 对话助手
 ```
 
-## 架构
-- PyQt6 + Slate Professional 暗色主题
-- 左侧平台导航(闲鱼/抖音/小红书) + 子菜单
-- 标签页工作区(按平台动态切换)
-- 顶部快捷栏 + 底部状态栏
+## 功能
+- 🐟 闲鱼: 数据采集 / AI对话 / 数据分析 / 调研报告
+- 🎵 抖音: 热门话题 / AI调研 / 拟稿话术
+- 📕 小红书: 笔记分析 / 关键词追踪 / AI调研
+- ⚙️ 设置面板: AI配置 / 防封策略 / 检查更新
 
 ## 启动
+```bash
+git clone https://github.com/Roue-AFK/dataresearch-hub.git
+cd dataresearch-hub
+pip install -r requirements.txt
 python main.py
+```
